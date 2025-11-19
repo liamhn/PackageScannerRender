@@ -2,4 +2,3 @@ easyocr
 numpy
 pandas
 streamlit
-pytesseract
