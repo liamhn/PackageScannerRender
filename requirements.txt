@@ -1,0 +1,5 @@
+easyocr
+numpy
+re
+pandas
+streamlit
